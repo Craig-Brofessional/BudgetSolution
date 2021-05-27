@@ -1,0 +1,27 @@
+E:\My Drive\For fun\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.deps.json
+E:\My Drive\For fun\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.runtimeconfig.json
+E:\My Drive\For fun\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.runtimeconfig.dev.json
+E:\My Drive\For fun\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.dll
+E:\My Drive\For fun\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.pdb
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.csproj.CoreCompileInputs.cache
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorAssemblyInfo.cache
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorAssemblyInfo.cs
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.AssemblyInfoInputs.cache
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.AssemblyInfo.cs
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorTargetAssemblyInfo.cache
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.dll
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.pdb
+E:\My Drive\For fun\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.csprojAssemblyReference.cache
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.deps.json
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.runtimeconfig.json
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.runtimeconfig.dev.json
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.dll
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\bin\Debug\netcoreapp2.1\BudgetServices.pdb
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.csproj.CoreCompileInputs.cache
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorAssemblyInfo.cache
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorAssemblyInfo.cs
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.AssemblyInfoInputs.cache
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.AssemblyInfo.cs
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.RazorTargetAssemblyInfo.cache
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.dll
+E:\My Drive\For fun\Budget Project\BudgetServices\BudgetServices\obj\Debug\netcoreapp2.1\BudgetServices.pdb

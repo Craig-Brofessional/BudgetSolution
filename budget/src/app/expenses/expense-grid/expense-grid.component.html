@@ -1,0 +1,23 @@
+<p>expense-grid works!</p>
+
+<input type="button" value="Add" (click)="AddExpense()">
+<div class="table">
+    <div class="row">
+        <div class="md-3">
+            <h3>ExpenseID</h3>
+        </div>
+        <div class="md-3">
+            <h3>Date</h3>
+        </div>
+    </div>
+    <div *ngFor="let expense of Expenses | keyvalue" class="row">
+        <div class="md-3">
+            <label>ExpenseID: {{ expense.value.ExpenseID }}</label>
+        </div>
+        <div class="md-3">
+            <label>Date: {{expense.value.ExpenseDate }}</label>
+        </div>
+    </div>
+    <br>
+    <label>Showing {{Expenses.size}} record(s)</label>
+</div>
